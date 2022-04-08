@@ -1,5 +1,5 @@
 import openpyxl
-book =openpyxl.load_workbook("D:\\Automation Project\\PythonSelFramework\\TestData\\UserData.xlsx")
+book =openpyxl.load_workbook(".D:\\Automation Project\\PythonSelFramework\\TestData\\UserData.xlsx")
 sheet =book.active
 Dict = {}
 cell =sheet.cell(row=1, column=2)

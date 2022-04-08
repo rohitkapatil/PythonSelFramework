@@ -52,3 +52,30 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2022-04-08 14:49:58,987 :INFO : test_e2e :Entering country name as ind
 2022-04-08 14:50:04,307 :INFO : test_e2e :Text received from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-08 15:13:37,759 :INFO : test_formSubmission :first name is Rahul
+2022-04-08 15:13:41,450 :INFO : test_e2e :getting all the card titles
+2022-04-08 15:13:41,469 :INFO : test_e2e :iphone X
+2022-04-08 15:13:41,476 :INFO : test_e2e :Samsung Note 8
+2022-04-08 15:13:41,483 :INFO : test_e2e :Nokia Edge
+2022-04-08 15:13:41,491 :INFO : test_e2e :Blackberry
+2022-04-08 15:13:41,599 :INFO : test_e2e :Entering country name as ind
+2022-04-08 15:13:46,878 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-08 16:04:32,323 :INFO : test_formSubmission :first name is Rahul
+2022-04-08 16:04:36,435 :INFO : test_e2e :getting all the card titles
+2022-04-08 16:04:36,450 :INFO : test_e2e :iphone X
+2022-04-08 16:04:36,457 :INFO : test_e2e :Samsung Note 8
+2022-04-08 16:04:36,464 :INFO : test_e2e :Nokia Edge
+2022-04-08 16:04:36,466 :INFO : test_e2e :Blackberry
+2022-04-08 16:04:36,572 :INFO : test_e2e :Entering country name as ind
+2022-04-08 16:04:41,871 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-04-08 16:29:26,569 :INFO : test_formSubmission :first name is Rahul
+2022-04-08 16:29:30,356 :INFO : test_e2e :getting all the card titles
+2022-04-08 16:29:30,372 :INFO : test_e2e :iphone X
+2022-04-08 16:29:30,378 :INFO : test_e2e :Samsung Note 8
+2022-04-08 16:29:30,384 :INFO : test_e2e :Nokia Edge
+2022-04-08 16:29:30,391 :INFO : test_e2e :Blackberry
+2022-04-08 16:29:30,494 :INFO : test_e2e :Entering country name as ind
+2022-04-08 16:29:35,796 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
