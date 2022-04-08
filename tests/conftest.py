@@ -20,6 +20,9 @@ def setup(request):
         driver = webdriver.Firefox()
     elif browser_name == "IE":
         print("IE driver")
+    else:
+        driver = webdriver.Chrome()
+
     driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
 
