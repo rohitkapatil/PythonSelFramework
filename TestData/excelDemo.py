@@ -8,7 +8,7 @@ print(cell.value)
 #
 # print(sheet.cell(row=2, column=2).value)
 #
-# print(sheet.max_row)https://github.com/rohitkapatil/nopecommerceApp.git
+# print(sheet.max_row)
 #
 # print(sheet.max_column)
 #
